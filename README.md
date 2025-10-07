@@ -3,13 +3,16 @@
 **My Project Booking System** is a web-based application for managing online bookings.  
 It allows users to browse available hotels or services, leave comments, and make reservations directly through the website.  
 
-The project was entirely developed by me as my first full-stack web application using **PHP, MySQL, HTML, CSS, and Bootstrap 5**.
+The project was entirely developed by me as my first full-stack web application using **PHP, MySQL, HTML, CSS, javaScript and Bootstrap 5**.
 
 ---
 
 ## 🧩 Features
 - User-friendly interface for browsing and booking services  
 - Booking form with validation and database integration  
+- Interactive calendar built with JavaScript for selecting available dates  
+- Real-time price calculation based on number of guests and nights  
+- Capacity tracking per day with live feedback in the calendar
 - Admin login system protected with hashed passwords (`password_hash`, `password_verify`)  
 - **Admin panel** to view, edit, and delete bookings in real time  
 - Responsive design built with Bootstrap 5  
@@ -18,7 +21,7 @@ The project was entirely developed by me as my first full-stack web application 
 ---
 
 ## ⚙️ Technologies Used
-- **Frontend:** HTML5, CSS3, Bootstrap 5  
+- **Frontend:** HTML5, CSS3, Bootstrap 5 , JavaScript (dynamic calendar and price calculation)
 - **Backend:** PHP (procedural style, mysqli prepared statements)  
 - **Database:** MySQL  
 - **Other:** Sessions for authentication, password hashing for security  
@@ -38,6 +41,7 @@ You can view the project here:
 
 Admin login (for demo/testing):  
 👉 [myprojectbookingsystem.gamer.gd/login.php](https://myprojectbookingsystem.gamer.gd/login.php)
+passkey - **username** - admin **password** - admin 
 
 ---
 
@@ -51,10 +55,9 @@ This was my **first real-world PHP project**, and it helped me understand how to
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your booking page and admin dashboard here — they make the README look much more professional!)*
+<img width="844" height="417" alt="image" src="https://github.com/user-attachments/assets/18d39950-59e9-41b6-a118-f21a3d462d46" />
+<img width="952" height="384" alt="image" src="https://github.com/user-attachments/assets/c0c4e03f-b12f-4d11-90b4-e3d119115f89" />
 
----
 
-## 💬 Author
-Developed by **[Your Name]**  
-📧 Contact: youremail@example.com
+
+
