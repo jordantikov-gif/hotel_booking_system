@@ -42,7 +42,9 @@ You can view the project here:
 Admin login (for demo/testing):  
 👉 [myprojectbookingsystem.gamer.gd/login.php](https://myprojectbookingsystem.gamer.gd/login.php)
 
-passkey - **username** - admin **password** - admin 
+Password 
+**username** - admin
+**password** - admin 
 
 ---
 
